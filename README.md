@@ -2,3 +2,15 @@
 
 
 # Chainflip
+
+# Spesifikasi minimum untuk menjalankan node Chainflip
+
+OS: Ubuntu 20.04
+
+CPU: 4 GHz 
+
+RAM: 8 GB
+
+SSD: 50 GB (Lebih besar lebih bagus)
+
+Bandwidth: Recommended 1GBps connection, 100 GB bandwidth combined up/down per month
